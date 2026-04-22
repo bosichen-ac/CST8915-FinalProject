@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env files (never commit secrets)
+.env
+.env.*
+
+# Kubernetes secrets (if generated locally)
+secrets.yaml
+
+# Temporary files
+*.tmp
+*.swp
+
+# Terraform (if you ever add it)
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Helm (if you later use it)
+charts/
