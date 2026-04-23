@@ -9,7 +9,7 @@
 
 ## Demo Video
 
-🎥 [Watch Demo Video]()
+🎥 [Watch Demo Video](https://youtu.be/p__ChVTNbVQ)
 
 ---
 
@@ -20,6 +20,14 @@
 This project is a cloud-native microservices application developed as part of the CST8915 Final Project. It is based on the Algonquin Pet Store (On Steroids) architecture and simulates an online retail system similar to Best Buy.
 
 The system is composed of multiple independently deployable services running on Azure Kubernetes Service (AKS).
+
+### Tech Stacks
+
+- Frontend: Vue.js
+- Backend: Node.js, GO
+- Database: MongoDB
+- Queueing: RabbitMQ
+- Deployment: AKS Cluster
 
 ### System Flow
 
