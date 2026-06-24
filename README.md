@@ -81,8 +81,8 @@ flowchart LR
 ### Deployment Instructions
 1. Clone Repository
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/bosichen-ac/CST8915-FinalProject.git
+cd CST8915-FinalProject
 ```
 2. Deploy to Kubernetes
 ```
